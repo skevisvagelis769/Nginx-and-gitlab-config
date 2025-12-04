@@ -21,10 +21,10 @@ docker compose up
 
 sudo apt install nginx
 
-sudo nano /etc/nginx/sites-available/gitlab.conf
+sudo nano /etc/nginx/sites-available/grafana.conf
 
 
-sudo ln -s /etc/nginx/sites-available/gitlab.conf /etc/nginx/sites-enabled/
+sudo ln -s /etc/nginx/sites-available/grafana.conf/etc/nginx/sites-enabled/
 
 sudo nginx -t
 
