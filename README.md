@@ -1,3 +1,8 @@
+The NGINX Reverse Proxy is currently handling routing for: 
+http://opencloud2025.duckdns.org/
+AND 
+http://opencloud2025.duckdns.org/gitlab
+where our GitLab is hosted.
 ================== Gitlab setup ==========================
 
 mkdir gitlab
